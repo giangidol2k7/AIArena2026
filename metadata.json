@@ -1,0 +1,6 @@
+{
+  "name": "VietRemix Core - Fashion & Cultural Guardrail Engine",
+  "description": "Nền tảng styling hybrid Việt phục x Streetwear và bộ lọc chuẩn hóa văn hóa (Cultural Guardrail) dành cho Gen Z với dữ liệu lịch sử xác thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
